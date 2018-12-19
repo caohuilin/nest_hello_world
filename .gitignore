@@ -1,0 +1,10 @@
+node_modules
+
+# 测试覆盖率结果
+__coverage__
+
+# 提供给构建工具的 ssh 私钥
+# 见 ./build-prepare.sh
+id_rsa_for_builder
+.tmp
+.DS_Store
